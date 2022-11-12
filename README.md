@@ -17,5 +17,5 @@ output:
 
 1. [¿Que querés agendar?: ir al cine ]
 2. [¿Que querés agendar?: salir a correr ]
-3. [¿Que querés agendar?: reunion ]
+3. [¿Que querés agendar?: reunión ]
 4. [¿Que querés agendar?: estudiar]
