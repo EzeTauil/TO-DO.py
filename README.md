@@ -13,6 +13,9 @@ automáticamente se abrirá un archivo (tareas.txt) donde el usuario podrá ver 
 
 output:
 
-[La cantidad de eventos que quiero agendar: ]
+[La cantidad de eventos que quiero agendar: 4]
 
-[¿Que querés agendar?: ]
+[¿Que querés agendar?: ir al cine ]
+[¿Que querés agendar?: salir a correr ]
+[¿Que querés agendar?: reunion ]
+[¿Que querés agendar?: estudiar]
