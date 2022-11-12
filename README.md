@@ -1,6 +1,8 @@
 # **TO-DO.py**
 
-##Éste es un programa simple para agendar una lista de eventos que quiera realizar el usuario.
+## Éste es un programa simple para agendar una lista de eventos.
+
+## Programa realizado en el curso de Introducción a Python
 
 ### El programa funciona de la siguiente manera: 
 _**Al ejecutarlo tendras una salida que te dirá "La cantidad de eventos que queres agendar", acá el usuario deberá 
