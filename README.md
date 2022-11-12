@@ -15,7 +15,7 @@ output:
 
 [La cantidad de eventos que quiero agendar: 4]
 
-[¿Que querés agendar?: ir al cine ]
-[¿Que querés agendar?: salir a correr ]
-[¿Que querés agendar?: reunion ]
-[¿Que querés agendar?: estudiar]
+1. [¿Que querés agendar?: ir al cine ]
+2. [¿Que querés agendar?: salir a correr ]
+3. [¿Que querés agendar?: reunion ]
+4. [¿Que querés agendar?: estudiar]
